@@ -20,5 +20,10 @@ namespace Binary___pp
         {
 
         }
+
+        private void dtob_convertPanel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

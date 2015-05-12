@@ -11,9 +11,18 @@ namespace Binary___pp
 {
     public partial class Form1 : Form
     {
+        DecimalBinaryForm dbform;
+
         public Form1()
         {
             InitializeComponent();
+
+            this.dbform = new DecimalBinaryForm();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.dbform.Visible = true;
         }
     }
 }

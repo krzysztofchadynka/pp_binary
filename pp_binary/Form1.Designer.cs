@@ -61,6 +61,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "decimal to binary";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -95,19 +96,19 @@
             // openFileToolStripMenuItem
             // 
             this.openFileToolStripMenuItem.Name = "openFileToolStripMenuItem";
-            this.openFileToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.openFileToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.openFileToolStripMenuItem.Text = "Open file";
             // 
             // exportToolStripMenuItem
             // 
             this.exportToolStripMenuItem.Name = "exportToolStripMenuItem";
-            this.exportToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exportToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.exportToolStripMenuItem.Text = "Export";
             // 
             // endToolStripMenuItem
             // 
             this.endToolStripMenuItem.Name = "endToolStripMenuItem";
-            this.endToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.endToolStripMenuItem.Size = new System.Drawing.Size(122, 22);
             this.endToolStripMenuItem.Text = "End";
             // 
             // Form1
