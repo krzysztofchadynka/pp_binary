@@ -9,21 +9,11 @@ using System.Windows.Forms;
 
 namespace Binary___pp
 {
-    public partial class DecimalBinaryForm : Form
+    public partial class dtob : Form
     {
-        public DecimalBinaryForm()
+        public dtob()
         {
             InitializeComponent();
-        }
-
-        private void DecimalBinaryForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dtob_convertPanel_Paint(object sender, PaintEventArgs e)
-        {
-
         }
     }
 }

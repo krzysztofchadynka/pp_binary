@@ -5,4 +5,5 @@ G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_b
 G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\pp_binary.csproj.GenerateResource.Cache
 G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\pp_binary.exe
 G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\pp_binary.pdb
-G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.DecimalBinaryForm.resources
+G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\pp_binary.csprojResolveAssemblyReference.cache
+G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.BinaryDecimalForm.resources

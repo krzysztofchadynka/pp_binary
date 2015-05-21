@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.dcbOpenButton = new System.Windows.Forms.Button();
+            this.bcdOpenButton = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -52,26 +52,27 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Binary Converter";
             // 
-            // button1
+            // dcbOpenButton
             // 
-            this.button1.Font = new System.Drawing.Font("Baskerville Old Face", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(12, 94);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(158, 48);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "decimal to binary";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.dcbOpenButton.Font = new System.Drawing.Font("Baskerville Old Face", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dcbOpenButton.Location = new System.Drawing.Point(12, 87);
+            this.dcbOpenButton.Name = "dcbOpenButton";
+            this.dcbOpenButton.Size = new System.Drawing.Size(158, 48);
+            this.dcbOpenButton.TabIndex = 1;
+            this.dcbOpenButton.Text = "decimal to binary";
+            this.dcbOpenButton.UseVisualStyleBackColor = true;
+            this.dcbOpenButton.Click += new System.EventHandler(this.dcbOpenButton_Click);
             // 
-            // button2
+            // bcdOpenButton
             // 
-            this.button2.Font = new System.Drawing.Font("Baskerville Old Face", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(213, 94);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(159, 48);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "binary to decimal";
-            this.button2.UseVisualStyleBackColor = true;
+            this.bcdOpenButton.Font = new System.Drawing.Font("Baskerville Old Face", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bcdOpenButton.Location = new System.Drawing.Point(218, 87);
+            this.bcdOpenButton.Name = "bcdOpenButton";
+            this.bcdOpenButton.Size = new System.Drawing.Size(159, 48);
+            this.bcdOpenButton.TabIndex = 2;
+            this.bcdOpenButton.Text = "binary to decimal";
+            this.bcdOpenButton.UseVisualStyleBackColor = true;
+            this.bcdOpenButton.Click += new System.EventHandler(this.bcdOpenButton_Click);
             // 
             // menuStrip1
             // 
@@ -116,8 +117,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(389, 242);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.bcdOpenButton);
+            this.Controls.Add(this.dcbOpenButton);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -137,8 +138,8 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button dcbOpenButton;
+        private System.Windows.Forms.Button bcdOpenButton;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem openFileToolStripMenuItem;

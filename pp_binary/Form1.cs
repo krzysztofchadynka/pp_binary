@@ -11,16 +11,21 @@ namespace Binary___pp
 {
     public partial class Form1 : Form
     {
-        DecimalBinaryForm dbform;
+        BinaryDecimalForm dbform;
 
         public Form1()
         {
             InitializeComponent();
 
-            this.dbform = new DecimalBinaryForm();
+            this.dbform = new BinaryDecimalForm();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void dcbOpenButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void bcdOpenButton_Click(object sender, EventArgs e)
         {
             this.dbform.Visible = true;
         }

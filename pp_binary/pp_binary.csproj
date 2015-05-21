@@ -52,19 +52,19 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="dtob.cs">
+    <Compile Include="btod.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="dtob.Designer.cs">
-      <DependentUpon>dtob.cs</DependentUpon>
+    <Compile Include="btod.Designer.cs">
+      <DependentUpon>btod.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="dtob.resx">
-      <DependentUpon>dtob.cs</DependentUpon>
+    <EmbeddedResource Include="btod.resx">
+      <DependentUpon>btod.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
