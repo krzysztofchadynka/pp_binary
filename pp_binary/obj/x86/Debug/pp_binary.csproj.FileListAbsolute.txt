@@ -6,3 +6,12 @@ G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_b
 G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\pp_binary.exe
 G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\pp_binary.pdb
 G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.DecimalBinaryForm.resources
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\bin\Debug\pp_binary.exe
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\bin\Debug\pp_binary.pdb
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.csprojResolveAssemblyReference.cache
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.Form1.resources
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.DecimalBinaryForm.resources
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.Properties.Resources.resources
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.csproj.GenerateResource.Cache
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.exe
+C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.pdb
