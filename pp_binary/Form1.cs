@@ -22,7 +22,13 @@ namespace Binary___pp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.dbform.Visible = true;
+            // Przy ponownym uruchomieniu okna dialogowego wyrzuca ObjectDisposedException
+            //this.dbform.Visible = true;
+
+            dbform = new DecimalBinaryForm();
+            dbform.Show();
+
+
         }
     }
 }

@@ -25,5 +25,10 @@ namespace Binary___pp
         {
 
         }
+
+        private void dtob_multipleButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
