@@ -16,6 +16,10 @@ namespace Binary___pp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            int a = 1, b = 2, temp=0;
+            temp = a + b;
+
         }
     }
 }
