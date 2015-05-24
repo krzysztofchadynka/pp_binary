@@ -17,3 +17,4 @@ C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\Binary__
 C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.csproj.GenerateResource.Cache
 C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.exe
 C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.pdb
+G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.dtob.resources

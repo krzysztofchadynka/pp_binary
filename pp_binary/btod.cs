@@ -26,5 +26,11 @@ namespace Binary___pp
             dtob_calcPanel.Visible = true;
             dtob_convertPanel.Visible = false;
         }
+
+        private void btod_convert_valuesButton_Click(object sender, EventArgs e)
+        {
+            binary number = new binary(btod_binaryText.Text);
+            btod_decimalText.Text = number.fromDecimal().ToString();
+        }
     }
 }
