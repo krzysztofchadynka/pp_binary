@@ -9,11 +9,17 @@ using System.Windows.Forms;
 
 namespace Binary___pp
 {
-    public partial class dtob : Form
+    public partial class DecimalBinaryForm : Form
     {
-        public dtob()
+        public DecimalBinaryForm()
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }
