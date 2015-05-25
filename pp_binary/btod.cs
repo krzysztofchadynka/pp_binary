@@ -19,6 +19,7 @@ namespace Binary___pp
         private void dtob_convertButton_Click(object sender, EventArgs e)
         {
             dtob_convertPanel.Visible = true;
+            dtob_calcPanel.Visible = false;
         }
 
         private void dtob_calculatorButton_Click(object sender, EventArgs e) 

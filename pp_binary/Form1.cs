@@ -17,7 +17,7 @@ namespace Binary___pp
         {
             InitializeComponent();
 
-            this.dbform = new BinaryDecimalForm();
+            
         }
 
         private void dcbOpenButton_Click(object sender, EventArgs e)
@@ -27,6 +27,7 @@ namespace Binary___pp
 
         private void bcdOpenButton_Click(object sender, EventArgs e)
         {
+            this.dbform = new BinaryDecimalForm();
             this.dbform.Visible = true;
         }
     }
