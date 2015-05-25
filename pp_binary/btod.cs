@@ -19,12 +19,19 @@ namespace Binary___pp
         private void dtob_convertButton_Click(object sender, EventArgs e)
         {
             dtob_convertPanel.Visible = true;
+            dtob_calcPanel.Visible = false;
         }
 
         private void dtob_calculatorButton_Click(object sender, EventArgs e) 
         {
             dtob_calcPanel.Visible = true;
             dtob_convertPanel.Visible = false;
+        }
+
+        private void btod_convert_valuesButton_Click(object sender, EventArgs e)
+        {
+            binary number = new binary(btod_binaryText.Text);
+            btod_decimalText.Text = number.fromDecimal().ToString();
         }
     }
 }

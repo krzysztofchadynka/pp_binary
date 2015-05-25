@@ -16,4 +16,8 @@ C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\Binary__
 C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.csproj.GenerateResource.Cache
 C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.exe
 C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\pp_binary.pdb
+<<<<<<< HEAD
 C:\Users\realrazor92\Documents\GitHub\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.DecimalBinaryForm.resources
+=======
+G:\Studia\Magisterka\Semestr I\Paradygmaty Programowania\Projekty\pp_binary\pp_binary\obj\x86\Debug\Binary___pp.dtob.resources
+>>>>>>> d361c920df77d19212156471e447bc1b2f6d8418

@@ -28,7 +28,13 @@ namespace Binary___pp
 
         private void bcdOpenButton_Click(object sender, EventArgs e)
         {
-            this.bdform.Visible = true;
+            this.dbform = new DecimalBinaryForm();
+            this.dbform.Visible = true;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
