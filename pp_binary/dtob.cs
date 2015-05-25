@@ -18,7 +18,14 @@ namespace Binary___pp
 
         private void button1_Click(object sender, EventArgs e)
         {
+            try
+            {
+                textBox2.Text = Convert.ToString(Int32.Parse(textBox1.Text), 2);
+            }
+            catch
+            {
 
+            }
         }
 
     }
